@@ -20,3 +20,4 @@ TerraLuna Launcher는 현재 개발이 진행 중인 프로젝트입니다.
 
 <img width="1455" height="960" alt="image" src="https://github.com/user-attachments/assets/eb594fbf-4bfc-4c48-ac98-1cca8cbf6ea6" />
 <img width="2530" height="1195" alt="image" src="https://github.com/user-attachments/assets/b9f5d242-f890-4918-a09d-93315d677916" />
+<img width="2559" height="1220" alt="image" src="https://github.com/user-attachments/assets/7dfed12b-e5da-4bec-bade-8a2f19ca2f5e" />
